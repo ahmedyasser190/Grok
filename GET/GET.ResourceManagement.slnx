@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ResourceManagement.Application/ResourceManagement.Application.csproj" Id="d2ef6d7a-681c-4434-a299-c1c4605f1670" />
+    <Project Path="src/ResourceManagement.Domain/ResourceManagement.Domain.csproj" Id="e4258d92-9f51-488e-8a23-6443a4b7b821" />
+    <Project Path="src/ResourceManagement.Infrastructure/ResourceManagement.Infrastructure.csproj" Id="8de0bf7d-deaf-497b-aa43-52ad9e06c5bf" />
+    <Project Path="src/ResourceManagement.Presentation/ResourceManagement.Presentation.csproj" Id="8c04d3a9-0512-4222-aa7a-31e97bcfdf27" />
+  </Folder>
+</Solution>

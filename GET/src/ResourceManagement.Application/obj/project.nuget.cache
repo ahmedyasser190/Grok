@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "neB1tQTFxMI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nabih\\OneDrive\\Desktop\\GET\\src\\ResourceManagement.Application\\ResourceManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nabih\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
